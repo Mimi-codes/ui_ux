@@ -18,4 +18,4 @@ const Feature = ({title, text}) => {
   )
 }
 
-export default Feature
+export default Feature; //rendered in App.js

@@ -35,4 +35,4 @@ const Features = () => (
   </div>
 );
 
-export default Features;
+export default Features; //rendered in App.js

@@ -22,4 +22,4 @@ const WhatGPT3 = () => {
   )
 }
 
-export default WhatGPT3;
+export default WhatGPT3; //rendered in App.js

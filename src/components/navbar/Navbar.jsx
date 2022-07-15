@@ -53,4 +53,4 @@ const [toggleMenu, setToggleMenu] = useState(false);
   )
 }
 
-export default Navbar
+export default Navbar; //rendered in App.js
